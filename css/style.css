@@ -27,3 +27,8 @@ div > h1 strong{
    font-size: 32px;
    font-family: Arial, Helvetica, sans-serif;
 }
+
+.modified-paragraphs{
+   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   color: gray;
+}
